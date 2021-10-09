@@ -1,2 +1,2 @@
 # CrudRegistro
- Registro Usuaruis
+ Registro Usuarios
